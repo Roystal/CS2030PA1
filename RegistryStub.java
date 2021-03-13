@@ -5,6 +5,5 @@ class RegistryStub extends Registry{
     }
 
     RegistryStub() {
-        super.input = "[]";
-    }
+        super(); }
 }
